@@ -1,8 +1,8 @@
 {
-	"name": "sending-message-to-specific-user-with-socket-io",
+	"name": "Chat",
 	"version": "0.0.1",
-	"description": "Sending message to specific user with socket.io",
-	"author": "Shashank",
+	"description": "Private Message",
+	"author": "RipanF",
 	"license": "MIT",
 	"dependencies": {
 		"express": "4.14.0",
